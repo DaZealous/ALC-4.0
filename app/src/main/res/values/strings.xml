@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC CHALLENGE</string>
+    <string name="about_alc">ABOUT ALC</string>
+    <string name="track">Track :</string>
+    <string name="display_name">Display Name</string>
+    <string name="country">Country :</string>
+    <string name="email">Email :</string>
+    <string name="phone">Phone Number :</string>
+    <string name="slack_username">Slack Username :</string>
+    <string name="welcome_to_alc_4_0">WELCOME TO ALC 4.0</string>
+    <string name="my_profile">MY PROFILE</string>
+</resources>
